@@ -2,7 +2,7 @@ package com.example.demo.domain.post.post.entity
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue
-import org.springframework.data.annotation.Id
+import jakarta.persistence.Id
 
 @Entity
 class Post(
